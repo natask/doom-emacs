@@ -197,6 +197,7 @@ Environment variables:
 ;;
 ;;; CLI Commands
 
+(load! "cli/heave")
 (load! "cli/help")
 (load! "cli/install")
 (load! "cli/sync")
