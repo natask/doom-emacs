@@ -260,6 +260,7 @@ SEE ALSO:
       (defautoload! ((sync s refresh re)))
       (defautoload! ((upgrade up)))
       (defautoload! (env))
+      (defautoload! (heave))
       (defautoload! ((build b purge p rollback)) "packages")
       (defautoload! ((install i)))
       (defautoload! ((compile c)))
